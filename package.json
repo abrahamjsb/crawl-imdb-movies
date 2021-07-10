@@ -1,0 +1,22 @@
+{
+  "name": "imdb-project",
+  "version": "1.0.0",
+  "description": "Rest API that scrap imdb page to serve movies data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamjsb/crawl-imdb-movies.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Abraham Sanchezs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrahamjsb/crawl-imdb-movies/issues"
+  },
+  "homepage": "https://github.com/abrahamjsb/crawl-imdb-movies#readme"
+}
